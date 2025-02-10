@@ -1,5 +1,5 @@
 #include "MyClass.h"
-//this is me adding a comment.
+
 MyClass::MyClass() : counter(0) {}
 
 MyClass::MyClass(int value) : counter(value) {}
